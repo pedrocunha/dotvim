@@ -31,3 +31,9 @@
 [submodule "bundle/vim-copy-as-rtf.vim"]
 	path = bundle/vim-copy-as-rtf.vim
 	url = https://github.com/zerowidth/vim-copy-as-rtf.git
+[submodule "bundle/vim-surrond.vim"]
+	path = bundle/vim-surrond.vim
+	url = https://github.com/tpope/vim-surround
+[submodule "bundle/vim-surrond"]
+	path = bundle/vim-surrond
+	url = https://github.com/tpope/vim-surround
