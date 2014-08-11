@@ -40,3 +40,6 @@
 [submodule "bundle/vim-kwbd"]
 	path = bundle/vim-kwbd
 	url = https://github.com/naonya3/vim-kwbd
+[submodule "bundle/vim-vroom"]
+	path = bundle/vim-vroom
+	url = git://github.com/skalnik/vim-vroom.git
