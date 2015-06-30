@@ -43,3 +43,6 @@
 [submodule "bundle/vim-kwbdi"]
 	path = bundle/vim-kwbdi
 	url = https://github.com/vim-scripts/kwbdi.vim.git
+[submodule "bundle/ctrlp-py-matcher.vim"]
+	path = bundle/ctrlp-py-matcher.vim
+	url = git@github.com:FelikZ/ctrlp-py-matcher.git
