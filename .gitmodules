@@ -49,3 +49,6 @@
 [submodule "bundle/vim-elixir.vim"]
 	path = bundle/vim-elixir.vim
 	url = https://github.com/elixir-lang/vim-elixir.git
+[submodule "bundle/action-ag.vim"]
+	path = bundle/action-ag.vim
+	url = https://github.com/Chun-Yang/vim-action-ag.git
