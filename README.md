@@ -4,7 +4,7 @@ vim
 
 ```bash
 cd ~
-git clone http://github.com/PedroCunha/dotvim.git ~/.vim
+git clone http://github.com/pedrocunha/dotvim.git ~/.vim
 
 # Install plug
 curl -fLo ~/.vim/autoload/plug.vim --create-dirs \
